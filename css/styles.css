@@ -29,13 +29,13 @@ html {
 }
 
 a:visited {
-	color: white;
+	color: darkslategrey;
 	text-decoration: none;
 
   }
   
 a:link {
-	color: white;
+	color: darkslategrey;
 	text-decoration: none;
   }
   
