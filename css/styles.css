@@ -28,6 +28,20 @@ html {
 	}
 }
 
+a:visited {
+	color: white;
+	text-decoration: none;
+
+  }
+  
+a:link {
+	text-decoration: none;
+  }
+  
+a:hover {
+	opacity: 75%;
+}
+  
 .icons-social i {
 	font-size: 3em;
 }
@@ -53,6 +67,10 @@ main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
+}
+
+main > .cv {
+	padding-top:10vH;
 }
 
 .icons-social i {
